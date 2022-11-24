@@ -5,9 +5,14 @@ This is the boilerplate for all my personal projects on GitHub. (This is the bri
 <br>
 
 ## Summary
- - This is the template boilerplate repository for all personal projects that I have on my GitHub. 
- - This template will expedite the creation and maintenance of all my various projects' repositories.
- - And more importantly, the standardized format will allow for auto parsing of the repository by a python script to automatically update my personal portfolio website.  
+- Home Assistant VM running on my home Ubuntu server
+- Secure remote access from browser or phone apps
+- Each member of household gets personal account with customized dashboard
+- Integrates seamlessly with google assistant to allow for easy voice control
+- Control of various custom Arduino nodes using RF communication, such as my custom backdoor deadbolt and the RGB LED strip controller in my room
+- Control all in-ceiling light bulbs in apartment using local Zigbee communication protocol
+- Automatically gradually dims and reduces blue-light in all light bulbs as the night goes on
+
 
 <br>
 
